@@ -1,8 +1,0 @@
-Comandos Linux
-
-Identificar Processo java: 
-$ ps xa | grep java
-
-Matar Processo: 
-$ kill -9 <numero processo>
-
